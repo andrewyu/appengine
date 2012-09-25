@@ -1,0 +1,3 @@
+# Module googlewebapp
+# RPC service class, partial path of RPC policy file
+com.andrewyu.client.GreetingService, 91A972A1F3066E04E90ACD371642EA96.gwt.rpc

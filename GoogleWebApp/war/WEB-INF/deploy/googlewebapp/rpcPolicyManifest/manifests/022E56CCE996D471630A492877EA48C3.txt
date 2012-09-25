@@ -1,0 +1,2 @@
+serviceClass: com.andrewyu.client.GreetingService
+path: 91A972A1F3066E04E90ACD371642EA96.gwt.rpc
